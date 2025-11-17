@@ -1,6 +1,6 @@
 <p><strong>Разработка мобильных приложений&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Сергей Михайлович</strong></p>
 <p>&nbsp;</p>
-** <p><strong><u>Лекция 08.09.25</u></strong></p> ** 
+<p><strong><u>Лекция 08.09.25</u></strong></p>
 <p><strong><u>Введение в разработку </u></strong><strong><u>Android приложений</u></strong><em><u><br /> </u></em><br /> История Android</p>
 <p>Android &ndash; открытая ОС для мобильных телефонов, смартфонов, коммуникаторов, планшетных компьютеров, электронных книг, цифровых проигрывателей, наручных часов, смарт буков.</p>
 <p>Android основан на ядре Linux.</p>
